@@ -12,7 +12,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
  *
  * @author pdai
  */
-@Configuration
+//@Configuration
 public class RedisConfig {
 
     /**
